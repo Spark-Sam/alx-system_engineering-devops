@@ -1,3 +1,2 @@
 #!/bin/bash
-CDP= $(pwd)
-echo $CDP
+echo $(pwd)
